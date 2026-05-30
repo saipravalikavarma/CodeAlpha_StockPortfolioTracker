@@ -41,7 +41,8 @@ Total Investment Value = 19000
 
 ## Screenshot
 
-![Output](screenshots/output.png)
+![Output](<img width="1083" height="538" alt="portfolio_file_output" src="https://github.com/user-attachments/assets/91811a28-5f5e-43a5-b537-9871ef95e524" />
+)
 
 ## Author
 Saipravalika Appani
